@@ -1,2 +1,2 @@
 # GTN
-Guess The Number Game
+Guess the number game made with python
