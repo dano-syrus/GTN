@@ -1,5 +1,6 @@
 import os
-questions = { "easy":"[GTN] Enter a number between 1-100: ", "medium":"[GTN] Enter a number between 1-300: ", "hard":"[GTN] Enter a number between 1-500: " }
+prefix = "[GTN] "
+quest = {100: f"{prefix}Enter a number between 1-100: "}
 
 def banner():
     os.system("clear")
