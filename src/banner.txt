@@ -8,8 +8,7 @@
   ████████▀     ▄████▀    ▀█   █▀
 
 Author      : Dano
-Version     : 2.0
-Note        : Enter 0 to exit
-Difficulties: Easy, Medium, Hard
+Version     : 2.1
+Exit        : Enter 0 to exit
 Bug Report  : https://github.com/dano235/GTN/issues
 ###################################################
