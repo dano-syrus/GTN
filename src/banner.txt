@@ -6,9 +6,10 @@
   ███    ███     ███     ███   ███ 
   ███    ███     ███     ███   ███ 
   ████████▀     ▄████▀    ▀█   █▀
-
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 Author      : Dano
-Version     : 2.1
+Version     : 2.5
 Exit        : Enter 0 to exit
-Bug Report  : https://github.com/dano235/GTN/issues
+Github      : github.com/dano235/GTN
+Issues      : github.com/dano235/GTN/issues
 ###################################################
